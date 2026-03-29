@@ -27,7 +27,7 @@ This project is a multi-site enterprise network built in Cisco Packet Tracer. It
 
 ## Topology
 
-### Edge / Site Layout Example
+### Edge / Site Layout
 <img width="1468" height="471" alt="image" src="https://github.com/user-attachments/assets/aadfcf58-45d2-459a-9570-455cf4c9200d" />
 
 ### Distribution / Multi-Site Connectivity
