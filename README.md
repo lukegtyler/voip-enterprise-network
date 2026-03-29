@@ -3,6 +3,9 @@
 ## Overview
 This project is a multi-site enterprise network built in Cisco Packet Tracer. It simulates multiple connected locations with VoIP communication, VLAN segmentation, OSPF routing, NAT, DHCP, DNS, HSRP redundancy, and EtherChannel.
 
+## Project Demonstration
+This project includes a fully functional Packet Tracer lab and configuration files demonstrating a multi-site enterprise network with VoIP, routing, and redundancy.
+
 ## Objectives
 - Build a multi-site routed network
 - Configure VLAN-based segmentation for voice, data, server, management, and native VLANs
