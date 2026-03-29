@@ -55,6 +55,7 @@ This project is a multi-site enterprise network built in Cisco Packet Tracer. It
 - How enterprise services like DHCP, DNS, and NAT fit into network design
 
 ## Files Included
-- Packet Tracer lab file
-- Configuration notes
-- Screenshots
+
+- [Download Packet Tracer Lab](lab/voip-phase4.pkt)
+- [View Configuration File](configs/voip-configs.txt)
+- Network topology screenshots (included above)
