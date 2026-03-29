@@ -1,2 +1,48 @@
-# voip-enterprise-network
-Multi-site enterprise VoIP network built in Cisco Packet Tracer with OSPF, VLANs, NAT, HSRP, and EtherChannel
+# Enterprise Multi-Site VoIP Network
+
+## Overview
+This project is a multi-site enterprise network built in Cisco Packet Tracer. It simulates multiple connected locations with VoIP communication, VLAN segmentation, OSPF routing, NAT, DHCP, DNS, HSRP redundancy, and EtherChannel.
+
+## Objectives
+- Build a multi-site routed network
+- Configure VLAN-based segmentation for voice, data, server, management, and native VLANs
+- Implement OSPF between sites and ISP routers
+- Configure NAT/PAT for outside connectivity
+- Enable VoIP communication between multiple locations
+- Implement gateway redundancy with HSRP
+- Configure EtherChannel between switches
+
+## Technologies Used
+- Cisco Packet Tracer
+- VLANs
+- Router-on-a-stick
+- OSPF
+- NAT/PAT
+- Static NAT
+- DHCP
+- DNS
+- VoIP dial peers
+- HSRP
+- EtherChannel
+
+## Topology
+(Add your topology screenshot here)
+
+## Key Configurations
+- OSPF for dynamic routing across sites
+- Subinterfaces for inter-VLAN routing
+- NAT overload and static NAT for internal services
+- Dial peers for inter-site VoIP calling
+- HSRP for gateway redundancy at the VOIP9000 site
+- EtherChannel between access/distribution switches
+
+## What I Learned
+- How to design and troubleshoot multi-site networks
+- How routing, segmentation, and voice services work together
+- How redundancy improves network availability
+- How enterprise services like DHCP, DNS, and NAT fit into network design
+
+## Files Included
+- Packet Tracer lab file
+- Configuration notes
+- Screenshots
