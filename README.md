@@ -26,8 +26,11 @@ This project is a multi-site enterprise network built in Cisco Packet Tracer. It
 - EtherChannel
 
 ## Topology
+### Edge / Site Layout Example
 <img width="1468" height="471" alt="image" src="https://github.com/user-attachments/assets/aadfcf58-45d2-459a-9570-455cf4c9200d" />
+### Distribution / Multi-Site Connectivity
 <img width="1483" height="923" alt="image" src="https://github.com/user-attachments/assets/a31bdb76-40e7-41fc-985b-282e01b869fa" />
+### Core Network (Redundancy & High Availability)
 <img width="1515" height="961" alt="image" src="https://github.com/user-attachments/assets/e639e128-82a0-43ef-8254-8e73d691037f" />
 
 
